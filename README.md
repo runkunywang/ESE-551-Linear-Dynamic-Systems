@@ -1,5 +1,5 @@
 # ESE-551-Linear-Dynamic-Systems
-Code for ESE 551 Linear Dynamic Systems. Code is written in Matlab and Simulink.
+Code for ESE 551 Linear Dynamic Systems: Code is written in Matlab and Simulink.
 
 ## Table of Contents
 * [State Observer Feedback](#State-Observer-Feedback)
